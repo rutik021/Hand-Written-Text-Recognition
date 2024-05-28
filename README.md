@@ -60,9 +60,6 @@ Convolutional Neural Networks (CNN) are a class of deep neural networks, most co
 
 The project includes detailed comparisons of the performances of SVM, ANN, and CNN models. Accuracy scores for both training and testing datasets are reported, along with confusion matrices to visualize the classification results. The results highlight the strengths and weaknesses of each model in recognizing handwritten digits.
 
-## Additional Information
-
-For further details and updates, please visit the [Tatvam Ceramics website](http://localhost:3000) or contact our support team through the Contact Us page.
 
 ### Visualizations
 
@@ -72,7 +69,4 @@ The project includes visualizations such as confusion matrices and comparison ch
 
 This project demonstrates the application of different machine learning models for handwritten text recognition. By comparing SVM, ANN, and CNN, we gain insights into their effectiveness and potential use cases. The detailed evaluation helps in understanding the trade-offs between different models in terms of accuracy, complexity, and training time.
 
-### Contact
-
-For any questions or feedback, please reach out to the project maintainer at [your-email@example.com](mailto:your-email@example.com).
 
